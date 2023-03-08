@@ -1,6 +1,6 @@
 # Project Ting
 
-Neste projeto aprendi Estrutura de Dados, como funciona arrays, listas, filas e pilhas debaixo dos panos, aprendi o funcionamentos dos stacks e muito mais com este conhecimento eu fiz os requisitos propostos pela Trybe
+Neste projeto aprendi estrutura de dados do arrays, listas, filas e pilhas debaixo dos panos, aprendi o funcionamentos dos stacks e muito mais com este conhecimento eu fiz os requisitos propostos pela Trybe
 
 # Os requisitos são:
 
