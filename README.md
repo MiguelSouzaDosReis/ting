@@ -1,6 +1,6 @@
 # Project Ting
 
-Neste projeto aprendi estrutura de dados do arrays, listas, filas e pilhas debaixo dos panos, aprendi o funcionamentos dos stacks e muito mais com este conhecimento eu fiz os requisitos propostos pela Trybe
+Neste projeto, tive a oportunidade de aprofundar meus conhecimentos em estrutura de dados, especificamente em arrays, listas, filas e pilhas. Aprendi sobre o funcionamento dos stacks. Com esse conhecimento, fui capaz de atender aos requisitos propostos pela Trybe 
 
 # Os requisitos são:
 
